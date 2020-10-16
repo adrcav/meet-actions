@@ -1,11 +1,3 @@
-// GLOBAL CSS ...
-
-// extension wrapper
-// injected with react app ==> /src/index.js
 #meet-actions {
-  position: fixed;
-  z-index: 2147483647; // top o' the mountain
+  z-index: 10000; // top o' the mountain
 }
-
-// you can inject whatever CSS you want into the page
-// body { background: crimson; }
